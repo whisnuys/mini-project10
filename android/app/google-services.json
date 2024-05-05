@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085255611181",
+    "project_id": "mini-project-ffab1",
+    "storage_bucket": "mini-project-ffab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085255611181:android:6811ea8969871d465fd9a4",
+        "android_client_info": {
+          "package_name": "com.example.mini_project_task10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFBeAIk0eEKISr4tRO9_vit_zHj_P4Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
